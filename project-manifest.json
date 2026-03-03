@@ -2461,5 +2461,10 @@
     "folder": "Personal-Finance-Visualizer",
     "path": "./projects/Personal-Finance-Visualizer/project.json",
     "link": "./projects/Personal-Finance-Visualizer/index.html"
+  },
+    {
+    "folder": "personality-types-quiz",
+    "path": "./projects/personality-types-quiz/project.json",
+    "link": "./projects/personality-types-quiz/index.html"
   }
 ]
