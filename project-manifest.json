@@ -1735,5 +1735,10 @@
       "path": "./projects/Digital Mood Landscape/project.json",
       "link": "./projects/Digital Mood Landscape/index.html"
     }
+    {
+      "folder": "DigitalLibrary",
+      "path": "./projects/DigitalLibrary/project.json",
+      "link": "./projects/DigitalLibrary/index.html"
+    }
   ]
 }
