@@ -2281,6 +2281,11 @@
       "folder": "Schoolwebsite",
       "path": "./projects/Schoolwebsite/project.json",
       "link": "./projects/Schoolwebsite/index.html"
+    },
+    {
+      "folder": "DigitalLibrary",
+      "path": "./projects/DigitalLibrary/project.json",
+      "link": "./projects/DigitalLibrary/index.html"
     }
     ,
     {
