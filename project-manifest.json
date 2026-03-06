@@ -2281,6 +2281,11 @@
       "folder": "Schoolwebsite",
       "path": "./projects/Schoolwebsite/project.json",
       "link": "./projects/Schoolwebsite/index.html"
+    },
+    {
+      "folder": "DigitalLibrary",
+      "path": "./projects/DigitalLibrary/project.json",
+      "link": "./projects/DigitalLibrary/index.html"
     }
     ,
     {
@@ -2465,6 +2470,11 @@
     "folder": "mental-health-awareness",
     "path": "./projects/mental-health-awareness/project.json",
     "link": "./projects/mental-health-awareness/index.html"
+   {
+    "folder": "cyber-safety-guide",
+    "path": "./projects/cyber-safety-guide/project.json",
+    "link": "./projects/cyber-safety-guide/index.html"
+   },
     {
     "folder": "personality-types-quiz",
     "path": "./projects/personality-types-quiz/project.json",
